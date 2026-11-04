@@ -1,15 +1,15 @@
-# TECHNICAL LOG & BGP ENGINEERING GUIDE
+# TECHNICAL LOG & INTRODUCTION TO AGENT SKILLS
 
-## Traffic Manipulation via the Weight Attribute
+## AGENT SKILLS ON CLAUDE
 **CCNP Miguelangel Luna**
 
 ---
 
-## CONTENIDOS:
+## CONTENT:
 
 | Case | Title | Description |
 | :--- | :--- | :--- |
-| **01** | [Claude & n8n AI Agents](./case-01-Google-Auth/) | Agentes Claude . |
+| **01** | [Claude & n8n AI Agents](./case-01-Google-Auth/) | Agentes Claude |
 
 [Antrophic](https://anthropic.skilljar.com/introduction-to-agent-skills/434527)
 
