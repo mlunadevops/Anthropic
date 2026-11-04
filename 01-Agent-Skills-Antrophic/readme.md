@@ -25,14 +25,17 @@ The topology consists of four routers across different Autonomous Systems (AS 10
 
  four routers across different Autonomous Systems (AS 100, AS 200, AS 300, and AS 400). Before advertising prefixes, BGP neighbor adjacencies were established on each device.
 
-## 3. BGP Configuration:
+## 3. Creating a Skill:
 
-**Router A (RTA - AS 100):**
+
+We'll build a personal skill that teaches Claude how to write PR descriptions in a consistent format. Since it's a personal skill, it lives in your home directory and works across all your projects.
+
+First, create a directory for your skill inside the skills folder. The directory name should match your skill name:
+
+**3.1 Create a directory:**
 
 ```text
-! 
-router bgp 100
-!
+nano ~/.claude/skills/pr-description/SKILL.md
 ```
 
 ### 4. BGP Configuration:
