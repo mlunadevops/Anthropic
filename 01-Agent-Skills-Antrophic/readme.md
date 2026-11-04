@@ -34,6 +34,11 @@ The topology consists of four routers across different Autonomous Systems .
 nano ~/.claude/skills/pr-description/SKILL.md
 ```
 
+3.2) Then create a **`SKILL.md`** file inside that directory. The file has two parts separated by frontmatter dashes:
+
+```text
+nano ~/.claude/skills/pr-description/SKILL.md
+```
 
 
 ### 4. BGP Configuration:
